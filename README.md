@@ -1,22 +1,18 @@
-<h1>yandex_algorithms</h1>
-
-<p> Репозиторий о хендбуке "<a href="https://education.yandex.ru/handbook/algorithms">Основы алгоритмов</a>" от "<a href="https://education.yandex.ru">Яндекс Образования</a>", на котором собраны:</p>
-<ul>
-    <li>решения задач;</li>
-    <li>личные тестовые файлы владельца репозитория;</li>
-    <li>полезные вспомогательные ресурсы.</li>
-</ul>
+# yandex_algorithms
+Репозиторий о хендбуке "[Основы алгоритмов](https://education.yandex.ru/handbook/algorithms)" от "[Яндекс Образования](https://education.yandex.ru)", на котором собраны решения задач и полезные вспомогательные ресурсы.
 
 
-<h2>Пригодившиеся ресурсы</h2>
-<ul>
-    <li><b>Организационное: </b><a href="https://contest.yandex.ru/errors">Значения ошибок, возвращаемых проверяющей системой</a>
-    <li><b>3.1: </b><a href="https://practicum.yandex.ru/blog/perestanovki-razmescheniya-sochetaniya-v-analize-dannyh">Основы комбинаторики: перестановки, размещения, сочетания</a></li>
-    <li><b>Разное:</b>
-        <ul>
-            <li><a href="https://practicum.yandex.ru/blog/obektno-orientirovannoe-programmirovanie">Объектно-ориентированное программирование</a></li>
-            <li><a href="https://practicum.yandex.ru/blog/paradigmy-programmirovaniya">Парадигмы программирования</a></li>
-        </ul>
-    </li>
-</ul>
-</details>
+## Навигация
+- **3. Техники проектирования алгоритмов**
+    - [3.1. Полный перебор и оптимизация перебора](/3.1/)
+    - [3.2. Жадные алгоритмы](/3.2/)
+    - [3.3. Динамическое программирование](/3.3/)
+    - [3.4. Рекурсивные алгоритмы](/3.4/)
+    - [3.5. Алгоритмы «Разделяй и властвуй»](/3.5/)
+    - [3.6. Рандомизированные алгоритмы](/3.6/)
+- ...
+
+
+## Пригодившиеся ресурсы
+- **Организационное:** [Значения ошибок, возвращаемых проверяющей системой](https://contest.yandex.ru/errors)
+- **3.1:** [Основы комбинаторики](https://practicum.yandex.ru/blog/perestanovki-razmescheniya-sochetaniya-v-analize-dannyh)
