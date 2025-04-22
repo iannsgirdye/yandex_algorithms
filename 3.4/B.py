@@ -1,5 +1,5 @@
 # Ханойские башни 2
-# Источник: https://github.com/qkue/yandex_algorithms_handbook/blob/main/3.4%20Рекурсивные%20алгоритмы/B/solution.py
+# Источник: https://github.com/qkue/yandex_algorithms_handbook
 
 
 def main():
