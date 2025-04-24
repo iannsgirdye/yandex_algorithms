@@ -62,5 +62,7 @@
 
 
 ## Пригодившиеся ресурсы
-- **Организационное:** [Значения ошибок, возвращаемых проверяющей системой](https://contest.yandex.ru/errors)
+- **Организационное:** 
+    - [Значения ошибок, возвращаемых проверяющей системой](https://contest.yandex.ru/errors)
+    - [Репозиторий с условиями и решениями](https://github.com/qkue/yandex_algorithms_handbook) (в некоторых задачах не отображаются условия)
 - **3.1:** [Основы комбинаторики](https://practicum.yandex.ru/blog/perestanovki-razmescheniya-sochetaniya-v-analize-dannyh)

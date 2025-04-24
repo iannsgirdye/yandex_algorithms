@@ -1,20 +1,21 @@
 # A(x) + B(x)
-
-
-def to_int(number: str) -> int:
-    return int(number.replace(" ", ""))
         
 
 def main():
-    n1, int1 = input(), to_int(input())
-    n2, int2 = input(), to_int(input())
+    n1, int1 = int(input()), list(map(int, input().split()))
+    n2, int2 = int(input()), list(map(int, input().split()))
     
-    int12 = str(int1 + int2)
-    n12 = len(int12) - 1
+    n12, int12 = max(n1, n2), []
+    for i in range(-1, -n12 - 2, -1):
+        if i < -n1 - 1:
+            int12.append(int2[i])
+        elif i < -n2 - 1:
+            int12.append(int1[i])
+        else:
+            int12.append(int1[i] + int2[i])
     
     print(n12)
-    for i in int12:
-        print(i, end=" ")
+    print(*int12[::-1])
 
 
 if __name__ == "__main__":

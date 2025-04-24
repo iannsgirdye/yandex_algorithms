@@ -1,5 +1,4 @@
 # Ханойские башни 2
-# Источник: https://github.com/qkue/yandex_algorithms_handbook
 
 
 def main():
