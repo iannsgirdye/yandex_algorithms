@@ -66,3 +66,6 @@
     - [Значения ошибок, возвращаемых проверяющей системой](https://contest.yandex.ru/errors)
     - [Репозиторий с условиями и решениями](https://github.com/qkue/yandex_algorithms_handbook) (в некоторых задачах не отображаются условия)
 - **3.1:** [Основы комбинаторики](https://practicum.yandex.ru/blog/perestanovki-razmescheniya-sochetaniya-v-analize-dannyh)
+- **5.1:** [Математическая индукция](https://practicum.yandex.ru/blog/metod-matematicheskoj-indukcii)
+- **Разное:**
+    - [Сложностть алгоритмов и операций на примере Python](https://proglib.io/p/slozhnost-algoritmov-i-operaciy-na-primere-python-2020-11-03)
