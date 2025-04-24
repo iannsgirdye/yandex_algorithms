@@ -1,3 +1,5 @@
+![Яндекс Образование](/repository/banner-white.png)
+
 # yandex_algorithms
 Репозиторий о хендбуке "[Основы алгоритмов](https://education.yandex.ru/handbook/algorithms)" от "[Яндекс Образования](https://education.yandex.ru)", на котором собраны решения задач и полезные вспомогательные ресурсы.
 
