@@ -68,6 +68,8 @@
     - [Значения ошибок, возвращаемых проверяющей системой](https://contest.yandex.ru/errors)
     - [Репозиторий с условиями и решениями](https://github.com/qkue/yandex_algorithms_handbook) (в некоторых задачах не отображаются условия)
 - **3.1:** [Основы комбинаторики](https://practicum.yandex.ru/blog/perestanovki-razmescheniya-sochetaniya-v-analize-dannyh)
-- **5.1:** [Математическая индукция](https://practicum.yandex.ru/blog/metod-matematicheskoj-indukcii)
+- **5.1:** [Метод индукции в математике](https://practicum.yandex.ru/blog/metod-matematicheskoj-indukcii)
+- **5.2:** [Что такое криптография](https://practicum.yandex.ru/blog/chto-takoe-kriptografiya)
 - **Разное:**
-    - [Сложностть алгоритмов и операций на примере Python](https://proglib.io/p/slozhnost-algoritmov-i-operaciy-na-primere-python-2020-11-03)
+    - [Что такое алгоритмы и какими они бывают](https://practicum.yandex.ru/blog/algoritmy-i-kakimi-oni-byvayut)
+    - [Сложность алгоритмов и операций на примере Python](https://proglib.io/p/slozhnost-algoritmov-i-operaciy-na-primere-python-2020-11-03)
